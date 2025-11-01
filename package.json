@@ -1,7 +1,7 @@
 {
   "name": "bingo-bot-vercel",
   "version": "1.0.0",
-  "description": "Telegraf bot on Vercel webhook",
+  "description": "Telegraf bot on Vercel webhook. (Fixed)",
   "main": "api/webhook.js",
   "scripts": {
     "start": "node api/webhook.js"
